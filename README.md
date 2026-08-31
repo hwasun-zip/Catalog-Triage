@@ -106,4 +106,5 @@ Severity(Health Grade) × Business Impact(리뷰수 상위 25%, 영향 범위) �
 
 ## 🔗 관련 프로젝트
 
-이 프로젝트에서 발견한 이상치는 [Catalog AutoPilot](#) (Claude API 기반 자동 모니터링·리포팅 파이프라인) 프로젝트로 이어집니다.
+
+이 프로젝트에서 발견한 이상치는 [Catalog AutoPilot](https://github.com/hwasun-zip/catalog-autopilot) (Claude API 기반 자동 모니터링·리포팅 파이프라인) 프로젝트로 이어집니다.
